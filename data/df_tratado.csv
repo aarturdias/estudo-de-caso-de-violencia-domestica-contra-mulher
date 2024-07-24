@@ -1,0 +1,348 @@
+Age;Education;Employment;Income;Marital status;Violence
+30;secondary;unemployed;0;married;yes
+47;tertiary;unemployed;0;married;no
+24;tertiary;unemployed;0;unmarred;no
+22;tertiary;unemployed;0;unmarred;no
+50;primary;unemployed;0;married;yes
+21;tertiary;unemployed;0;unmarred;yes
+30;tertiary;unemployed;0;married;no
+27;tertiary;unemployed;0;married;no
+20;tertiary;unemployed;0;unmarred;no
+18;secondary;unemployed;0;married;no
+40;primary;unemployed;0;married;no
+45;primary;unemployed;0;married;yes
+45;none;unemployed;0;married;no
+40;none;unemployed;0;married;yes
+50;primary;unemployed;0;married;yes
+43;primary;unemployed;0;married;no
+18;secondary;unemployed;0;unmarred;no
+15;secondary;unemployed;0;unmarred;no
+44;primary;unemployed;0;married;no
+35;secondary;unemployed;0;married;no
+40;primary;unemployed;0;married;no
+50;none;unemployed;0;married;yes
+40;tertiary;unemployed;0;married;yes
+35;none;unemployed;0;married;yes
+44;primary;unemployed;0;married;no
+23;secondary;unemployed;0;married;yes
+24;primary;unemployed;0;married;yes
+19;secondary;unemployed;0;unmarred;no
+27;secondary;unemployed;0;married;no
+20;secondary;unemployed;0;married;no
+18;secondary;unemployed;0;married;no
+23;secondary;unemployed;0;married;no
+19;secondary;unemployed;0;married;no
+19;secondary;unemployed;0;married;no
+50;primary;unemployed;0;married;yes
+25;secondary;unemployed;0;married;no
+19;secondary;unemployed;0;unmarred;no
+30;primary;unemployed;0;married;yes
+24;primary;unemployed;0;married;no
+23;tertiary;unemployed;0;unmarred;no
+20;secondary;unemployed;0;unmarred;no
+50;none;unemployed;0;married;yes
+21;secondary;unemployed;0;unmarred;no
+32;tertiary;unemployed;0;unmarred;no
+30;tertiary;unemployed;0;unmarred;no
+25;secondary;unemployed;0;married;no
+26;secondary;unemployed;0;married;yes
+40;primary;unemployed;0;married;yes
+50;primary;unemployed;0;married;yes
+43;none;unemployed;0;married;yes
+35;tertiary;unemployed;0;married;yes
+40;primary;unemployed;0;married;yes
+40;secondary;unemployed;0;married;yes
+25;secondary;unemployed;0;married;no
+23;secondary;unemployed;0;married;no
+37;tertiary;unemployed;0;married;yes
+33;primary;unemployed;0;married;yes
+23;secondary;unemployed;0;married;no
+42;none;unemployed;0;married;yes
+33;primary;unemployed;0;married;yes
+30;primary;unemployed;0;married;yes
+33;secondary;unemployed;0;married;no
+23;secondary;unemployed;0;married;no
+22;tertiary;unemployed;0;married;yes
+19;secondary;unemployed;0;married;yes
+25;primary;unemployed;0;married;yes
+30;secondary;unemployed;0;married;yes
+40;secondary;unemployed;0;married;no
+27;primary;unemployed;0;married;yes
+24;primary;unemployed;0;married;yes
+30;primary;unemployed;0;married;no
+35;primary;unemployed;0;married;yes
+50;primary;unemployed;0;married;yes
+47;primary;unemployed;0;married;yes
+20;secondary;unemployed;0;married;no
+23;secondary;unemployed;0;married;no
+30;tertiary;unemployed;0;married;no
+40;primary;unemployed;0;married;yes
+54;primary;unemployed;0;married;yes
+33;primary;unemployed;0;married;no
+40;none;unemployed;0;married;no
+35;none;unemployed;0;married;no
+22;primary;unemployed;0;married;no
+34;none;unemployed;0;married;no
+45;primary;unemployed;0;married;no
+27;none;unemployed;0;married;no
+45;none;unemployed;0;married;no
+39;primary;unemployed;0;married;yes
+37;none;unemployed;0;married;no
+21;secondary;unemployed;0;unmarred;no
+29;none;unemployed;0;married;no
+23;primary;unemployed;0;married;no
+51;none;unemployed;0;married;no
+33;primary;unemployed;0;unmarred;no
+25;secondary;unemployed;0;married;no
+26;none;unemployed;0;married;no
+50;none;unemployed;0;married;no
+29;primary;unemployed;0;married;no
+28;primary;unemployed;0;married;no
+18;none;unemployed;0;married;no
+35;none;unemployed;0;married;yes
+34;tertiary;unemployed;0;married;no
+25;none;unemployed;0;married;no
+46;primary;unemployed;0;married;yes
+19;secondary;unemployed;0;married;no
+40;none;unemployed;0;married;no
+22;primary;unemployed;0;married;no
+18;primary;unemployed;0;married;yes
+30;tertiary;unemployed;0;married;no
+21;secondary;unemployed;0;unmarred;no
+55;none;unemployed;0;married;no
+32;none;unemployed;0;married;no
+35;none;unemployed;0;married;no
+18;secondary;unemployed;0;unmarred;no
+35;primary;unemployed;0;married;no
+36;none;unemployed;0;married;no
+50;primary;unemployed;0;married;no
+30;secondary;unemployed;0;married;no
+24;tertiary;unemployed;0;unmarred;no
+47;none;unemployed;0;married;no
+30;none;unemployed;0;married;no
+30;tertiary;unemployed;0;married;no
+35;primary;unemployed;0;married;no
+55;none;unemployed;0;married;yes
+19;secondary;unemployed;0;unmarred;no
+19;secondary;unemployed;0;unmarred;no
+38;primary;unemployed;0;married;no
+25;none;unemployed;0;married;no
+35;none;unemployed;0;married;no
+30;primary;unemployed;0;married;no
+24;none;unemployed;0;married;no
+20;primary;unemployed;0;married;no
+40;none;unemployed;0;married;no
+56;none;unemployed;0;married;no
+15;primary;unemployed;0;unmarred;yes
+26;secondary;unemployed;0;married;no
+60;primary;unemployed;0;married;no
+44;primary;unemployed;0;married;no
+17;secondary;unemployed;0;unmarred;no
+45;primary;unemployed;0;married;no
+19;none;unemployed;0;married;yes
+43;none;unemployed;0;married;no
+22;none;unemployed;0;married;no
+44;primary;unemployed;0;married;no
+30;secondary;unemployed;0;married;no
+39;none;unemployed;0;married;no
+40;none;unemployed;0;married;no
+42;none;unemployed;0;married;no
+18;secondary;unemployed;0;unmarred;no
+30;primary;unemployed;0;married;no
+25;none;unemployed;0;married;no
+51;primary;unemployed;0;married;no
+23;tertiary;unemployed;0;married;no
+33;none;unemployed;0;married;no
+25;tertiary;unemployed;0;unmarred;no
+50;none;unemployed;0;married;yes
+45;primary;unemployed;0;married;yes
+30;tertiary;unemployed;0;married;no
+26;tertiary;unemployed;0;married;no
+35;secondary;unemployed;0;married;no
+32;secondary;unemployed;0;married;no
+26;secondary;unemployed;0;married;no
+23;primary;unemployed;0;married;no
+20;primary;unemployed;0;married;no
+22;primary;unemployed;0;married;no
+19;primary;unemployed;0;married;no
+35;primary;unemployed;0;married;no
+25;primary;unemployed;0;married;no
+47;primary;unemployed;0;married;yes
+44;primary;unemployed;0;married;no
+33;primary;unemployed;0;married;no
+28;primary;unemployed;0;married;no
+19;tertiary;unemployed;0;unmarred;no
+35;primary;unemployed;0;married;yes
+40;primary;unemployed;0;married;yes
+29;secondary;unemployed;0;married;no
+20;primary;unemployed;0;married;yes
+26;secondary;unemployed;0;married;yes
+24;secondary;unemployed;0;married;no
+33;secondary;unemployed;0;married;yes
+21;primary;unemployed;0;married;yes
+22;primary;unemployed;0;married;no
+23;primary;unemployed;0;married;yes
+25;primary;unemployed;0;married;yes
+30;secondary;unemployed;0;married;yes
+23;primary;unemployed;0;married;yes
+28;primary;unemployed;0;married;no
+25;primary;unemployed;0;married;yes
+30;primary;unemployed;0;married;no
+29;tertiary;unemployed;0;married;no
+44;primary;unemployed;0;married;no
+23;secondary;unemployed;0;married;no
+20;primary;unemployed;0;married;yes
+21;primary;unemployed;0;married;no
+19;secondary;unemployed;0;unmarred;no
+29;secondary;unemployed;0;married;yes
+26;secondary;unemployed;0;married;no
+44;secondary;unemployed;0;married;no
+22;secondary;unemployed;0;married;no
+34;primary;unemployed;0;married;no
+46;primary;unemployed;0;married;yes
+38;primary;unemployed;0;married;no
+33;secondary;unemployed;0;married;no
+29;tertiary;unemployed;0;married;yes
+34;secondary;unemployed;0;married;no
+26;secondary;unemployed;0;married;no
+33;secondary;unemployed;0;married;no
+44;primary;unemployed;0;married;no
+25;primary;unemployed;0;married;yes
+36;primary;unemployed;0;married;no
+22;secondary;unemployed;0;married;no
+28;primary;unemployed;0;married;no
+46;primary;unemployed;0;married;no
+42;primary;unemployed;0;married;no
+33;secondary;unemployed;0;married;no
+21;primary;unemployed;0;married;no
+24;primary;unemployed;0;married;yes
+32;tertiary;unemployed;0;married;yes
+33;primary;unemployed;0;married;no
+25;secondary;unemployed;0;married;no
+25;secondary;unemployed;0;married;no
+29;primary;unemployed;0;married;no
+21;secondary;unemployed;0;unmarred;no
+36;primary;unemployed;0;married;no
+44;primary;unemployed;0;married;no
+31;primary;unemployed;0;married;no
+30;secondary;unemployed;0;married;no
+27;secondary;unemployed;0;married;no
+20;secondary;unemployed;0;married;no
+24;secondary;unemployed;0;unmarred;no
+33;primary;unemployed;0;married;no
+22;secondary;unemployed;0;married;no
+24;secondary;unemployed;0;married;no
+42;primary;unemployed;0;married;yes
+38;primary;unemployed;0;married;no
+28;secondary;unemployed;0;married;yes
+22;secondary;unemployed;0;unmarred;no
+21;primary;unemployed;0;unmarred;no
+23;secondary;unemployed;0;married;no
+34;secondary;unemployed;0;married;no
+36;primary;unemployed;0;married;no
+25;secondary;unemployed;0;married;no
+45;primary;unemployed;0;married;no
+31;secondary;unemployed;0;married;yes
+22;secondary;unemployed;0;unmarred;no
+28;secondary;unemployed;0;married;yes
+36;primary;unemployed;0;married;no
+41;primary;unemployed;0;married;no
+20;secondary;unemployed;0;married;no
+31;secondary;unemployed;0;married;yes
+36;primary;unemployed;0;married;no
+31;secondary;unemployed;0;married;no
+47;primary;unemployed;0;married;no
+23;secondary;unemployed;0;unmarred;yes
+36;primary;unemployed;0;married;no
+38;primary;unemployed;0;married;no
+28;secondary;unemployed;0;married;no
+29;secondary;unemployed;0;married;no
+31;primary;unemployed;0;married;no
+43;primary;unemployed;0;married;yes
+44;primary;unemployed;0;married;no
+21;secondary;unemployed;0;unmarred;no
+20;secondary;unemployed;0;married;no
+23;secondary;unemployed;0;married;yes
+36;primary;unemployed;0;married;no
+42;primary;unemployed;0;married;no
+33;primary;unemployed;0;married;no
+23;secondary;unemployed;0;unmarred;no
+32;primary;unemployed;0;married;yes
+50;primary;unemployed;8;married;no
+19;secondary;semi employed;1000;unmarred;no
+45;none;unemployed;1000;married;no
+22;secondary;semi employed;1200;married;yes
+33;primary;semi employed;1500;married;no
+30;primary;semi employed;2000;married;no
+18;secondary;semi employed;2000;unmarred;no
+25;primary;semi employed;2000;married;no
+22;primary;semi employed;2000;married;no
+24;secondary;employed;2000;unmarred;no
+29;primary;semi employed;2200;married;no
+23;none;semi employed;2500;married;no
+27;secondary;semi employed;2500;married;yes
+26;primary;semi employed;2500;married;no
+46;primary;employed;2500;married;yes
+20;tertiary;semi employed;3000;unmarred;no
+27;primary;semi employed;3000;married;no
+21;secondary;semi employed;3000;unmarred;no
+25;secondary;semi employed;3000;unmarred;no
+27;primary;semi employed;3000;married;no
+19;secondary;semi employed;3000;married;no
+50;tertiary;employed;3500;married;yes
+26;secondary;semi employed;3500;married;no
+25;primary;semi employed;3500;married;no
+30;secondary;semi employed;4000;married;no
+48;secondary;semi employed;4000;married;no
+21;secondary;semi employed;4000;unmarred;no
+43;primary;semi employed;4000;married;no
+50;primary;employed;5000;married;no
+45;none;semi employed;5000;married;yes
+20;secondary;semi employed;5000;unmarred;no
+27;none;semi employed;5000;married;no
+29;secondary;semi employed;5000;unmarred;no
+23;tertiary;semi employed;5000;unmarred;no
+22;secondary;semi employed;5000;married;yes
+28;secondary;employed;5000;married;yes
+42;none;semi employed;5500;married;no
+45;none;semi employed;5500;married;no
+25;none;semi employed;6000;married;no
+31;tertiary;semi employed;6000;married;no
+28;tertiary;semi employed;6000;married;no
+22;secondary;semi employed;6000;married;no
+27;secondary;semi employed;7000;married;no
+39;primary;employed;7000;married;yes
+26;tertiary;semi employed;8000;unmarred;no
+45;none;semi employed;8000;married;no
+48;primary;semi employed;8000;married;yes
+44;primary;semi employed;9000;married;no
+27;tertiary;semi employed;10000;married;no
+40;none;semi employed;10000;married;no
+30;primary;semi employed;10000;married;no
+18;secondary;employed;10000;unmarred;no
+28;tertiary;employed;12000;married;no
+30;secondary;semi employed;12000;married;no
+35;none;semi employed;15000;married;no
+25;primary;employed;15000;married;yes
+23;secondary;employed;15000;married;no
+26;primary;employed;15000;married;no
+26;secondary;semi employed;18000;married;no
+22;secondary;employed;20000;married;no
+43;tertiary;employed;22000;married;no
+37;tertiary;employed;22000;married;no
+35;tertiary;employed;22000;married;no
+30;tertiary;employed;22000;married;no
+30;tertiary;employed;22000;married;no
+42;tertiary;employed;24000;married;no
+40;tertiary;employed;24000;married;no
+43;tertiary;employed;24000;married;yes
+40;tertiary;employed;25000;married;no
+26;tertiary;employed;25000;married;no
+29;secondary;employed;25000;married;no
+45;tertiary;employed;27000;married;no
+45;tertiary;employed;28000;married;no
+27;tertiary;semi employed;30000;unmarred;no
+26;tertiary;employed;35000;married;no
+27;primary;unemployed;0;married;yes
+29;primary;unemployed;0;married;no
+24;secondary;unemployed;0;married;no
